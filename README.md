@@ -22,7 +22,7 @@ Esta es una aplicación simple de gestión de contactos construida con Python Fl
 ## Instalación
 
 - git clone https://github.com/k3v1n-shif/flask_crud_contactos_app.git
-- cd flask-crud-contacts-app
+- cd flask_crud_contactos_app
 - pip install -r requirements.txt
 - python app_contacts/app.py
 
