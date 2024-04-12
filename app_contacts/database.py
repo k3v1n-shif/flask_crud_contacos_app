@@ -4,7 +4,7 @@ class Database:
     def __init__(self):
         self.server = 'your_server_name'
         self.database = 'your_database_name'
-        self.port = '1433'
+        self.port = 'your_port'
         self.username = 'your_username'
         self.password = 'your_password'
         self.trusted_connection = 'yes'
