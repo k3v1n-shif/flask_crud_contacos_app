@@ -2,11 +2,11 @@ import pyodbc
 
 class Database:
     def __init__(self):
-        self.server = 'DESKTOP-R6HRVT5'
-        self.database = 'flaskcontacts'
+        self.server = 'your_server_name'
+        self.database = 'your_database_name'
         self.port = '1433'
-        self.username = 'Test02'
-        self.password = 'test02'
+        self.username = 'your_username'
+        self.password = 'your_password'
         self.trusted_connection = 'yes'
 
     def connect(self):
