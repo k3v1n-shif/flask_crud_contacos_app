@@ -3,7 +3,8 @@
 
 Esta es una aplicación simple de gestión de contactos construida con Python Flask y SQL Server. Permite a los usuarios agregar, editar y eliminar contactos.
 
-## Captura de Pantalla ![Captura de Pantalla](docs/screenshot.png)
+## Captura de Pantalla 
+![Captura de Pantalla](docs/screenshot.png)
 
 ## Funcionalidades
 
